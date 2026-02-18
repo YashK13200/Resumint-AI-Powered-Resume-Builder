@@ -5,7 +5,7 @@
   <br />
   A modern, intuitive resume builder that combines beautiful design with intelligent features to help you land your dream job.
   <br /><br />
-  <a href="https://resume-builder-sage-theta.vercel.app/"><strong>🚀 Live Demo »</strong></a>
+  <a href=""><strong>🚀 Live Demo »</strong></a>
   &nbsp;·&nbsp;
   <a href="#-features"><strong>Features</strong></a>
   &nbsp;·&nbsp;
@@ -27,8 +27,8 @@
 
 | 🔗 Resource | Link |
 |-------------|------|
-| **Live App** | [resumint.vercel.app](https://resume-builder-sage-theta.vercel.app/) |
-| **GitHub Repo** | [github.com/AfsarWebDev/resume-builder](https://github.com/AfsarWebDev/resume-builder) |
+| **Live App** | [resumint.vercel.app]() |
+| **GitHub Repo** | [github.com/AfsarWebDev/resume-builder]() |
 
 ---
 
