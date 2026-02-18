@@ -5,7 +5,7 @@
   <br />
   A modern, intuitive resume builder that combines beautiful design with intelligent features to help you land your dream job.
   <br /><br />
-  <a href=""><strong>🚀 Live Demo »</strong></a>
+  <a href="https://resumint-ai-powered-resume-builder.vercel.app/"><strong>🚀 Live Demo »</strong></a>
   &nbsp;·&nbsp;
   <a href="#-features"><strong>Features</strong></a>
   &nbsp;·&nbsp;
@@ -27,8 +27,8 @@
 
 | 🔗 Resource | Link |
 |-------------|------|
-| **Live App** | [resumint.vercel.app]() |
-| **GitHub Repo** | []() |
+| **Live App** | [https://resumint-ai-powered-resume-builder.vercel.app/]() |
+| **GitHub Repo** | [https://github.com/YashK13200/Resumint-AI-Powered-Resume-Builder]() |
 
 ---
 
