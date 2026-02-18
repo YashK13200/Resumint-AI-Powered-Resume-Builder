@@ -28,7 +28,7 @@
 | 🔗 Resource | Link |
 |-------------|------|
 | **Live App** | [resumint.vercel.app]() |
-| **GitHub Repo** | []() |
+| **GitHub Repo** | [https://github.com/YashK13200/Resumint-AI-Powered-Resume-Builder]() |
 
 ---
 
@@ -113,7 +113,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/AfsarWebDev/resume-builder.git
+git clone https://github.com/YashK13200/Resumint-AI-Powered-Resume-Builder
 
 # Navigate to project directory
 cd resume-builder
