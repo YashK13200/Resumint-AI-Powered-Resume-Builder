@@ -22,7 +22,7 @@
 </p>
 
 ---
-
+<!-- 
 ## 🌐 Live Demo
 
 | 🔗 Resource | Link |
@@ -30,13 +30,15 @@
 | **Live App** | [https://resumint-ai-powered-resume-builder.vercel.app/]() |
 | **GitHub Repo** | [https://github.com/YashK13200/Resumint-AI-Powered-Resume-Builder]() |
 
+-->
 ---
 
 ## 📸 Preview
 
 <p align="center">
-  <img src="./src/assets/preview.png" width="100%" alt="Resumint Homepage Preview" />
+  <img width="1722" height="6696" alt="Resumint Homepage Preview" src="" />
 </p>
+
 
 ---
 
