@@ -35,8 +35,9 @@
 
 ## 📸 Preview
 
+
 <p align="center">
-  <img width="1722" height="6696" alt="Resumint Homepage Preview" src="/src/assets/preview.svg" />
+  <img width="959" height="437" alt="Resumint Homepage Preview"  src="https://github.com/user-attachments/assets/7bb1c393-4ec2-4c9f-8340-665f4245b479" />
 </p>
 
 
