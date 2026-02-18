@@ -28,7 +28,7 @@
 | 🔗 Resource | Link |
 |-------------|------|
 | **Live App** | [resumint.vercel.app]() |
-| **GitHub Repo** | [github.com/AfsarWebDev/resume-builder]() |
+| **GitHub Repo** | []() |
 
 ---
 
